@@ -1,6 +1,6 @@
 # JupyterLite Demo
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+JupyterLite deployed as a static site to GitHub Pages, for demo purposes. Push
 
 ## ✨ Try it in your browser ✨
 
